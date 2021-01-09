@@ -1,2 +1,2 @@
 # Data-Science
-#  Neste repositório estão alguns codigos de deep learnig, machine  learnig nos quais tenho feito experimentos e  análise, reutilizando-os em novos projetos e melhorando-os
+#  Neste repositório estão alguns projetos de dataScience, machine  learnig nos quais tenho feito experimentos e  análise, reutilizando-os em novos projetos e melhorando-os
